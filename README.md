@@ -11,7 +11,7 @@ Features
 
 Installation
 1. Clone the repository:
-    git clone https://github.com/yashc1712/Chatbot.git
+    git clone https://github.com/saumyahc/Chatbot.git
 
 2. Navigate to the project directory:
     cd chatbot-project
@@ -35,3 +35,4 @@ Installation
 - `words.pkl`: Pickle file containing processed words.
 - `classes.pkl`: Pickle file containing classes.
 - `chatbot_model.h5`: Trained chatbot model.
+
